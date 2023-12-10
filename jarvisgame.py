@@ -33,12 +33,7 @@ def play_game():
     else:
         print("computer win")
         speak("computer win ")
-# if __name__ == "__main__":
-#     while True:
-#         play_game()
-#         play_again=print("do you want to play again"),speak("do you want to play again ")
-#         if play_again!="yes":
-#             break
+
 if __name__ == "__main__":
     while True:
       play_game()
